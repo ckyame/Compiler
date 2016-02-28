@@ -1,0 +1,13 @@
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\MainWindow.baml
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\MainWindow.g.cs
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\App.g.cs
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\Compiler_MarkupCompile.cache
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\Compiler.g.resources
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Keeame\Documents\RedElement\Compiler\Compiler\obj\Debug\Compiler.pdb
